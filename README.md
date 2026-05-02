@@ -28,6 +28,8 @@ Lenguaje: Python 3.x
 
 Librería UI: Tkinter / TTK
 
-Base de Datos: MySQL (en desarrollo)
+Base de Datos: MySQL 
+
+Análisis y Visualización: Matplotlib (Para la futura implementación de dashboards y gráficos estadísticos de ventas y stock)
 
 Control de Versiones: Git & GitHub
